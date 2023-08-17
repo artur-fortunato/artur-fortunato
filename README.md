@@ -1,9 +1,5 @@
 <h2 font-size="12px" align="center"> Olá, eu sou Artur </h2>
-<div> 
-  <ul>
-    <li> Sou estudante na 4ª do curso de Análise e Desenvolvimento de Sistemas.</li>
-    <li> Atualmente estudando desenvolvimento mobile com Swift IOS. </li>
-  </ul>
+<div>
  </div>
  <div align="center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artur-fortunato&theme=bear&show_icons=true"/>
