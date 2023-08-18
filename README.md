@@ -2,7 +2,7 @@
 <div>
  </div>
  <div align="center"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artur-fortunato&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&theme=bear&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artur-fortunato&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&theme=merko&show_icons=true"/>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=artur-fortunato&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
