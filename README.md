@@ -14,8 +14,8 @@
    </a> 
    <a href="https://www.picpay.com" target="_blank">
     <img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" target="_blank"/>
+     <br>
 </a>
-<br>
 </div>
 <div>
  </div>
